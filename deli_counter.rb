@@ -20,6 +20,6 @@ end
       puts "There is nobody waiting to be served!"
     else
       puts "Currently_serving #{deli.[0])."
-    deli.shift
+      deli.shift
     end
   end
