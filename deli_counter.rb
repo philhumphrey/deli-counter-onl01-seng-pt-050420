@@ -19,7 +19,7 @@ end
     if deli.empty?
       puts "There is nobody waiting to be served!"
     else
-      puts "Currently_serving #{deli.first
+      puts "Currently_serving #{deli.[0])
     else deli.shift
     end
   end
