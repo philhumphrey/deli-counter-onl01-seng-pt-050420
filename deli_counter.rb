@@ -10,5 +10,5 @@ def line(deli)
   end
 end
   
-  def take_a_number(katz_deli, ends )
+  def take_a_number
   
