@@ -7,6 +7,7 @@ def line(deli)
     deli.each_with_index do |customer, index|
       current_line << "#{index}. #{customer}"
   end
+  puts current_line
 end
   
   # def take_a_number(katz_deli, end_of_line)
