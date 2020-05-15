@@ -15,4 +15,4 @@ end
     puts "Welcome, #{name}. You are #{deli.length} in line"
   end
   
-  def
+  def now_serving(deli)
