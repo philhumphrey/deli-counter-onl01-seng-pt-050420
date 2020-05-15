@@ -16,3 +16,4 @@ end
   end
   
   def now_serving(deli)
+    if deli.empty?
