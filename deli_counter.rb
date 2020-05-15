@@ -1,6 +1,6 @@
 # Write your code here.
 def line(deli)
-  deli = []
+  if deli.length 
   
   
   def take_a_number(katz_deli, end_of_line)
