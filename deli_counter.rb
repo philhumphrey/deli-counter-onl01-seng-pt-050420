@@ -7,7 +7,7 @@ def line(deli)
       current_line << " #{index + 1}. #{customer}"
   end
   puts current_line
-end
+  end
 end
   
   
